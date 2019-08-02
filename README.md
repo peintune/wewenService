@@ -1,4 +1,3 @@
-精品电影网：http://www.jpmovie.cn
 ##概述
 
 APICloud的 java SDK 基于HttpClient创建的工具类,将数据云Api以面向对象的思想加以封装,支持对象化操作,只需要在你的代码中引入Resource类并创建Resource对象,便可以轻松完成数据云相关api接口的调用,操作相关数据.
@@ -57,7 +56,6 @@ authorization
 resource.setAuthorization("iiyvHmUgsuoTE4kcWdDisN1HnAmYe5DNDGUFkWUerQ293g3SjPkw2k9FH90GwwCL");
 ```
 
-精品电影网：http://www.jpmovie.cn
 ##对象基本操作
 ###**1.创建对象**
 
